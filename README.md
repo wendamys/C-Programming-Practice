@@ -2,26 +2,24 @@ C-Programming-Practice
 
 Сборник решенных мной базовых задач на Java.
 
-В начале каждого файла есть input ->
-                            output ->
-
-                            ## 🧪 Примеры работы (I/O Examples)
+## 🧪 Примеры работы (Test Cases)
 
 
-Категория	Файл	Тестовый ввод (Input)	Ожидаемый результат (Output)
-Basics	hello.c	—	Hello, A!
-Basics	named_hello.c	42	Hello, 42!
-Basics	float_compare.c	—	OK!
-Basics	crack.c	3 4	GOTCHA
-Basics	important_function.c	1	-1955.4
-Algorithms	arithmetic.c	10 2	12 8 20 5
-Algorithms	max.c	10 20	20
-Algorithms	maxmin.c	10 5 15	15 5
-Algorithms	squaring.c	3 2 5 10	4 25 100
-Algorithms	sort.c	5 5 2 8 1 3	1 2 3 5 8
-Algorithms	stat.c	5 1 2 3 4 5	1 2 3 4 5
-5 1 3.000000 2.000000
-Algorithms	search.c	5 10 2 13 15 4	10
+| Категория | Файл | Ввод (Input) | Вывод (Output) |
+| :--- | :--- | :--- | :--- |
+| **Basics** | `hello.c` | — | `Hello, A!` |
+| **Basics** | `named_hello.c` | `42` | `Hello, 42!` |
+| **Basics** | `float_compare.c` | — | `OK!` |
+| **Basics** | `crack.c` | `3 4` | `GOTCHA` |
+| **Basics** | `important_function.c` | `1` | `-1955.4` |
+| **Algorithms** | `arithmetic.c` | `10 2` | `12 8 20 5` |
+| **Algorithms** | `max.c` | `10 20` | `20` |
+| **Algorithms** | `maxmin.c` | `10 5 15` | `15 5` |
+| **Algorithms** | `squaring.c` | `3 2 5 10` | `4 25 100` |
+| **Algorithms** | `sort.c` | `5 5 2 8 1 3` | `1 2 3 5 8` |
+| **Algorithms** | `stat.c` | `5 1 2 3 4 5` | `1 2 3 4 5` <br> `5 1 3.000000 2.000000` |
+| **Algorithms** | `search.c` | `5 10 2 13 15 4` | `10` |
+
 
 
 📁 Структура проекта
