@@ -8,15 +8,20 @@ C-Programming-Practice
                             ## 🧪 Примеры работы (I/O Examples)
 
 
-| Файл | Input (Ввод) | Output (Вывод) |
-| :--- | :--- | :--- |
-| **hello.c** | - | `Hello, A!` |
-| **arithmetic.c** | `10 2` | `12 8 20 5` |
-| **arithmetic.c** | `10 0` | `10 10 0 n/a` |
-| **maxmin.c** | `10 5 15` | `15 5` |
-| **crack.c** | `3 4` | `GOTCHA` |
-| **stat.c** | `5 1 2 3 4 5` | `5 1 3.000000 2.000000` |
-| **sort.c** | `5 5 2 8 1 3` | `1 2 3 5 8` |
+Раздел	Файл	Пример ввода (Input)	Ожидаемый вывод (Output)
+Basics	hello.c	—	Hello, A!
+named_hello.c	42	Hello, 42!
+float_compare.c	—	OK!
+crack.c	3 4	GOTCHA
+important_function.c	1	-1955.4
+Algorithms	arithmetic.c	10 2	12 8 20 5
+max.c	10 20	20
+maxmin.c	10 5 15	15 5
+squaring.c	3 2 5 10	4 25 100
+sort.c	5 5 2 8 1 3	1 2 3 5 8
+stat.c	5 1 2 3 4 5	1 2 3 4 5
+5 1 3.000000 2.000000
+search.c	5 10 2 13 15 4	10
 
 
 📁 Структура проекта
